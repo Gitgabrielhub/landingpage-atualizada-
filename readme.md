@@ -1,0 +1,3 @@
+como esse arquivo será publicado em uma ferramenta interna da empresa nao foi utilizado nenhum arquivo js e nem folha de estilo em cascata.
+o css utilizado para estilizar a página foi totalmente inline, e com ajuda do bootstrap que foi instalado dentro do projeto via cdn, buscando melhor pratica de desenvolvimento mobile first.
+a pagina conta com uma impecavel adaptabilidade para diferentes tipos de telas, dos dispositivos menores aos maiores dispositivos, garantindo uma melhor experiencia do usuario. 
